@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mritunjay-Saini/ReactJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mritunjay-Saini/ReactJs/issues"
+  },
+  "homepage": "https://github.com/Mritunjay-Saini/ReactJs#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.15.2"
+  }
+}
