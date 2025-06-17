@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         email: 'sainimritunjay2003@gmail.com',
         phone: '+91 9950677356',
         birthday: '15 Dec 2003',
-        location: 'Kota ,Rajasthan, India',
+        location: 'Kota ,Rajasthan',
         social: [
   { name: 'logo-github', link: 'https://github.com/Mritunjay-saini' },
   { name: 'logo-linkedin', link: 'https://www.linkedin.com/in/mritunjaysaini' },
